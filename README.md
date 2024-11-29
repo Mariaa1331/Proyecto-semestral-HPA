@@ -7,21 +7,7 @@ Funciones en C
 Punteros en C
 Estructuras en C
 
-C.	OBJETIVO(S):
-Integrar en el desarrollo de un programa en C estructuras de control, arreglos, punteros, funciones y estructuras.
 
-D.	METODOLOGÍA: 
-La actividad consiste en desarrollar el código fuente en C del problema planteado en la sección G. Podrán trabajar en parejas.
-El código fuente debe estar debidamente documentado.
-
-E.	PROCEDIMIENTO O ENUNCIADO DE LA EXPERIENCIA:
-Elabore un programa en C que cumpla con los parámetros indicados en la sección G.
-
-F.	RECURSOS:
-Material impartido en clases.
-Internet
-
-G.	RESULTADOS (OPCIONAL, DE ACUERDO CON LA ACTIVIDAD):
 La cadena de cines Gnk’s Cinema requiere el desarrollo de una aplicación que le permita llevar la gestión del sistema de reservas de asientos de sus salas de cine; esta aplicación debe permitir realizar las siguientes tareas:
 a.	Crear cartelera
 b.	Seleccionar sala
