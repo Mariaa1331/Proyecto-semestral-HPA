@@ -1,0 +1,44 @@
+menu:  
+a. Crear cartelera 
+se debe asignar la película que se estará exhibiendo en cada una de las 4 salas.
+puede ser un arreglo unidimensional.
+
+b. Seleccionar sala
+desplegar la cartelera en pantalla indicando las salas y la película disponible en cada una. 
+(se imprime el arreglo anterior con un ciclo for)
+Se procede a seleccionar la sala.
+(buscar como presentar eso)
+
+c. Comprar entrada/s 
+- Mostrar disponibilidad:  visualizar la disponibilidad de la sala 
+(debe mostrarse visualmente la disponibilidad)
+- Reservar/seleccionar asiento/s 
+reserva (pago de las entradas). 
+El usuario podrá seleccionar el o los asientos que desea.
+(recordar que hay letras y numeros juntos)
+precio para adultos es de $6.75, el precio para niños es de $3.75 y el precio de jubilados es de $4.50. 
+Cuando se finaliza la reserva, se presenta el ticket de la compra.
+
+d. Reportes: 
+- Reporte salas: 
+esta opción debe presentar por cada sala la cantidad de adultos, 
+cantidad de niños, cantidad de jubilados y cantidad de puestos no vendidos.
+(puede ser un arreglo bidimensional 4x4, llenado en una funcion aparte que haga paso por referencia o
+como se llame cuando estas cambiando el valor en memoria.)
+- Reporte cine:
+esta opción debe mostrar la información de las salas 
+(sala, película, cantidad de entradas vendidas, cantidad de entradas disponibles, 
+monto total recaudado por sala $$$). Al final debe mostrar el total de ganancias generado en el cine. 
+
+e. Salir
+
+notas: 
+en salir se imprimen los nombres y eso.
+verificador porque ANTES de vender, debe estar hecha la cartelera.
+Debe verificar que no se venda 2 veces el mismo asiento para una misma sala. 
+verificar valores erroneos.
+
+Buscar:
+como hacer para que de pronto no aparezca nada en pantalla. 
+el menu debe desaparecer cuando elige una opcion, hacer lo de la opcion, y volver a aparecer. HASTA QUE SALGA SALIR.
+como presentar la cartelera, los asientos y el ticket visualmente.
